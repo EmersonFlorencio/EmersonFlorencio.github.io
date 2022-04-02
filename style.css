@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(191, 202, 255);
+    padding: 0px 30px;
+}
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+#Description {
+    font-family: 'Caveat', cursive;
+    font-size: 35px;
+    top: 25px;
+    right: 10px;
+    padding: 100px 150px;
+} 
+    .liked-blogs img{
+display: block;
+margin: 30px 0;
+    }
+
+#hamburguer img {
+    width: 25%;
+    height: 25%;    
+}
+h3 {
+    font-style: italic;
+    font-family: fantasy, sans-serif;
+    font-size: 22px;
+}
+
+.summary a{
+    text-decoration: none;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+    border: solid 5px #024366;
+    border-radius: 10%;
+    background-color: #0077b6;
+    color: black;
+    padding: 0px 10px;
+}
+
+#Foto {
+    border-radius: 5%;
+    padding: 10px;
+    float: left;
+    background-color: #0077b6;
+    margin: 0px 50px 0px 0px;
+}
+.image-container {
+    height: 330px;
+    position: relative;  
+}
+ ul li:nth-child(2n+1) {
+    background-color: #0077b6;
+}
+
+.list-container {
+    font-size: 25px;
+    font-family: 'Caveat', cursive;
+}
